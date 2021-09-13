@@ -1,0 +1,50 @@
+.header {
+  padding: 20px;
+  margin: 60px;
+}
+
+
+.right__header {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 50px;
+  font-size: 20px;
+  line-height: 24px;
+
+}
+
+.top {
+width: 107px;
+height: 24px;
+left: 321px;
+top: 115px;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+text-transform: capitalize;
+color: #4A4A4A;
+}
+
+
+.right__header__icon {
+ position: absolute;
+left: 6.25%;
+right: 6.25%;
+top: 9.38%;
+bottom: 9.38%;
+}
+
+
+.subtitle__header {
+  display: flex;
+  justify-content: space-between;
+  font-size: 15px;
+  line-height: 18px;
+  color: #4A4A4A;
+}
+
+.subs {
+  font-size: 15px;
+}
+
