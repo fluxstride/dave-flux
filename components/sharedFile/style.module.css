@@ -1,0 +1,33 @@
+.flex{
+    display: flex;
+    justify-content: space-between;
+    width: 89vw;
+    margin: 0 auto;
+    margin-bottom: 1.7rem;
+ }
+
+ .iconCon{
+    display: flex;
+ }
+.space1{
+    transform: translateX(-3.7rem);
+}
+.space2{
+    transform: translateX(-4.5rem);
+
+}
+.space3{
+   transform: translateX(-1.4rem);
+
+}
+
+.userIconText{
+    margin-left: 1.5rem !important;
+}
+ .iconName{
+    margin: .8rem 0 0 .5rem;
+ }
+
+ .titles{
+    margin-top: .8rem
+ }
