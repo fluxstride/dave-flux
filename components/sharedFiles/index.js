@@ -6,10 +6,10 @@ import json from "./json"
 
 
 const SharedFiles = () => {
-const files = json
+const files = json;
   
   return ( 
-    <div>
+    <div className={styles.container}>
        <TopBar/>
        {files.map(file=>(<SharedFile file={file} key={file.id}/>))}
       
